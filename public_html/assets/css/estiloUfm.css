@@ -1,0 +1,18 @@
+h2{
+    font-size: 45px;
+    text-align: center;
+}
+
+label{
+    font-size: 30px;
+}
+body{
+    background-color: #c9e2b3;
+}
+input[type=text] {
+height: 50px;
+font-size: 40px;
+}
+.informacao{
+    text-align: center;
+}
